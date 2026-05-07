@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+
+# Data (large files)
+data/*.csv
+data/synthetic/*.csv
+models/*.joblib
+
+# Logs
+*.log
+*.err.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Requested project-specific ignores
+submission/
+submiision/
+venv/
+.venv/
+README.md
+models/
+run_demo.ps1
+
